@@ -1,8 +1,6 @@
 # Todo List
 
-simple todos
-
-Nomad Coders Redux, React-Redux, Redux toolkit tutorial
+> Nomad Coders Redux, React-Redux, Redux toolkit tutorial
 
 You can watch the [course](https://nomadcoders.co/redux-for-beginners) for this app.
 
