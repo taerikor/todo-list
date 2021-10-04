@@ -1,8 +1,8 @@
-# Vanilla Redux
+# Todo List
 
-Nomad Coders Redux and React-Redux tutorial
+simple todos
 
-used and learned Vanila JS
+Nomad Coders Redux, React-Redux, Redux toolkit tutorial
 
 You can watch the [course](https://nomadcoders.co/redux-for-beginners) for this app.
 
